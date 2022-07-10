@@ -1,1 +1,1 @@
-This is the first git directory for my alx project under foundations
+Manual README edit on git website
