@@ -1,1 +1,1 @@
-My first readme
+This repo contains Git tasks.
